@@ -1,0 +1,6 @@
+{
+  "appId": "br.com.hortacomunitaria.app",
+  "appName": "Horta Comunitária",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
